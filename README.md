@@ -12,3 +12,4 @@ end of 2017. Our measurement so far is intermediate between the Planck predictio
 ## Authors
 
 * **Jesse Han**
+* **Dom Pesce**
